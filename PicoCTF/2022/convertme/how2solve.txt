@@ -1,0 +1,21 @@
+
+16 --> decimal 
+base-10
+
+change to binary
+
+use lcm --> to find the binary
+
+2 | 16 - 0
+2 | 8 - 0
+2 | 4 - 0
+2 | 2 - 0
+    1 -0
+
+binary base-2
+
+(16)10 --> (10000)2
+
+enter binary value which give the flag. 
+boom !!
+

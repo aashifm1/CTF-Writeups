@@ -1,0 +1,4 @@
+
+how2solve --> just run the code.py in the same file codebook.txt --> hint
+
+flag --> picoCTF{c0d3b00k_455157_d9aa2df2}

@@ -1,0 +1,9 @@
+
+unzipped --> jpg
+
+more ukn_reality.jpg
+
+jpg (metadata) contains base64 
+decoded using cyberchef
+
+picoCTF{ME74D47A_HIDD3N_6a9f5ac4}

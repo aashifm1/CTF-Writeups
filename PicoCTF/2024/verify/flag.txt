@@ -1,0 +1,1 @@
+picoCTF{trust_but_verify_c6c8b911}
