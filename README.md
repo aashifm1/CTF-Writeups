@@ -18,6 +18,9 @@ The writeups cover multiple domains, including:
 ## Other CTF writeups
 
 1.PicoCTF 2026 - [Writeup](https://github.com/aashifm1/PicoCTF-2026)
-3. BSides CTF 2026 (Ranked 11th) - [Writeup link](https://github.com/aashifm1/BSidesCTF-2026)
-4. Hack4Shell CTF 2026 - [Writeup link](https://github.com/aashifm1/Hack4Shell-Writeups)
-5. SecLeaf Q2 CTF 2026 - [Writeup link](https://github.com/aashifm1/SecLeaf-CTF)
+
+2. BSides CTF 2026 (Ranked 11th) - [Writeup link](https://github.com/aashifm1/BSidesCTF-2026)
+
+3. Hack4Shell CTF 2026 - [Writeup link](https://github.com/aashifm1/Hack4Shell-Writeups)
+
+4. SecLeaf Q2 CTF 2026 - [Writeup link](https://github.com/aashifm1/SecLeaf-CTF)
