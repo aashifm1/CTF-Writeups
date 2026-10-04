@@ -2,12 +2,6 @@
 
 A curated collection of Capture The Flag (CTF) writeups documenting solutions, methodologies, and techniques used across various cybersecurity challenges.
 
-## Overview
-
-This repository serves as a reference for understanding practical approaches to solving CTF challenges. Each writeup focuses on clear reasoning, reproducible steps, and relevant tooling.
-
-> This repository is intended for educational purposes only.  
-
 ## Scope
 
 The writeups cover multiple domains, including:
@@ -20,3 +14,10 @@ The writeups cover multiple domains, including:
 | Forensics | Investigating artifacts to extract hidden information |
 | Binary Exploitation | Exploiting memory corruption and low-level vulnerabilities |
 | Miscellaneous | Logic-based or unconventional challenges |
+
+## Other CTF writeups
+
+1.PicoCTF 2026 - [Writeup](https://github.com/aashifm1/PicoCTF-2026)
+3. BSides CTF 2026 (Ranked 11th) - [Writeup link](https://github.com/aashifm1/BSidesCTF-2026)
+4. Hack4Shell CTF 2026 - [Writeup link](https://github.com/aashifm1/Hack4Shell-Writeups)
+5. SecLeaf Q2 CTF 2026 - [Writeup link](https://github.com/aashifm1/SecLeaf-CTF)
